@@ -1,0 +1,2 @@
+# Patika.SQL
+ilkÖdev
